@@ -11,10 +11,7 @@ A modern, interactive, and fully responsive personal portfolio website built wit
 - Social/contact links
 - Fully responsive for mobile and desktop
 
-## 🖥️ Demo
-Add your live site link or a screenshot here!
-
-## 🛠️ Tech Stack
+## ️ Tech Stack
 - React (Vite)
 - Material-UI (MUI)
 - Custom CSS
