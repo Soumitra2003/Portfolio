@@ -17,6 +17,9 @@ A modern, interactive, and fully responsive personal portfolio website built wit
 - Custom CSS
 - Devicon CDN for tech logos
 
+## Netlify Link
+https://soumitrafolio.netlify.app/
+
 ## 📦 Getting Started
 1. Clone the repo:
 	```sh
